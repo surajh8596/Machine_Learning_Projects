@@ -16,3 +16,5 @@
 ##### 5. Decision Tree Classifier
 ##### 6. Random Forest Classifier
 ##### 7. XGBoost
+##### 8. Adaboost
+##### 9. Gradient boosting
